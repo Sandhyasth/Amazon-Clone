@@ -1,7 +1,7 @@
 const products = [
     {id:1, name:"Wireless Headphone", price:2000, image:"images/headphone.jpg"},
     {id:2, name:"Iphone", price:150000, image:"images/phone.webp"},
-    {id:3, name:"Watch", price:6599, image:"images/watch.jpg"},
+    {id:3, name:"Watch", price:7599, image:"images/watch.jpg"},
     {id:4, name:"Laptop", price:120000, image:"images/laptop.jpg"},
     {id:5, name:"Speaker", price:8000, image:"images/speaker.jpg"}
 ];
